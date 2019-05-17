@@ -1,0 +1,763 @@
+ 
+
+IMPORTANT NOTICE 
+
+NOT FOR DISTRIBUTION TO ANY PERSON OR ADDRESS IN THE UNITED STATES 
+
+IMPORTANT: You must read the following disclaimer before continuing. The following disclaimer applies to 
+the attached preliminary pricing supplement. You are advised to read this disclaimer carefully before accessing, 
+reading or making any other use of the attached preliminary pricing supplement. In accessing the attached preliminary 
+pricing supplement, you agree to be bound by the following terms and conditions, including any modifications to 
+them from time to time, each time you receive any information from us as a result of such access. 
+
+NOTHING IN THIS ELECTRONIC TRANSMISSION CONSTITUTES AN OFFER OF SECURITIES FOR SALE 
+IN THE UNITED STATES OR ANY OTHER JURISDICTION WHERE IT IS UNLAWFUL TO DO SO. THE 
+SECURITIES  HAVE  NOT  BEEN,  AND  WILL  NOT  BE,  REGISTERED  UNDER  THE  UNITED  STATES 
+SECURITIES ACT OF 1933, AS AMENDED (THE SECURITIES ACT), OR THE SECURITIES LAWS OF 
+ANY STATE OF THE UNITED STATES OR OTHER JURISDICTION AND THE SECURITIES MAY NOT BE 
+OFFERED OR SOLD WITHIN THE UNITED STATES EXCEPT PURSUANT TO AN EXEMPTION FROM, OR 
+IN A TRANSACTION  NOT SUBJECT TO, THE  REGISTRATION  REQUIREMENTS  OF THE  SECURITIES 
+ACT AND APPLICABLE STATE OR LOCAL SECURITIES LAWS. 
+
+THE ATTACHED PRELIMINARY PRICING SUPPLEMENT MAY NOT BE FORWARDED OR DISTRIBUTED 
+TO ANY OTHER PERSON AND MAY NOT BE REPRODUCED IN ANY MANNER WHATSOEVER, AND IN 
+PARTICULAR,  MAY  NOT  BE  FORWARDED  TO  ANY  ADDRESS  IN  THE  UNITED  STATES.  ANY 
+FORWARDING, DISTRIBUTION OR REPRODUCTION OF THIS DOCUMENT IN WHOLE OR IN PART IS 
+UNAUTHORISED. FAILURE TO COMPLY WITH THIS DIRECTIVE MAY RESULT IN A VIOLATION OF THE 
+SECURITIES ACT OR THE APPLICABLE LAWS OF OTHER JURISDICTIONS. 
+
+Confirmation of Your Representation: In order to be eligible to view the attached preliminary pricing supplement 
+or make an investment decision with respect to the securities, investors must not be located in the United States. The 
+attached  preliminary  pricing  supplement  is  being  sent  to  you  at  your  request,  and  by  accepting  the  e-mail  and 
+accessing the attached preliminary pricing supplement, you shall be deemed to represent to each of Competition 
+Team  Technologies  Limited  as  issuer  (the  Issuer),  Hon  Hai  Precision  Industry  Co.,  Ltd.  as  guarantor  (the 
+Guarantor) and Bank of China (Hong Kong) Limited, Citigroup Global Markets Limited, Merrill Lynch (Asia 
+Pacific)  Limited, The  Hongkong  and  Shanghai  Banking  Corporation  Limited  (each  in  its  capacity  as  joint  lead 
+manager) (together, the Joint Lead Managers) that (1) you are not in the United States, and the electronic mail 
+address that you gave us and to which this e-mail has been delivered is not located in the United States, its territories 
+or possessions, and (2) you consent to delivery of the attached preliminary pricing supplement and any amendments 
+or supplements thereto by electronic transmission. To the extent you purchase the securities described in the attached 
+preliminary pricing supplement, you will be doing so in an offshore transaction as defined in regulations under the 
+Securities Act in compliance with Regulation S under the Securities Act. 
+
+You are reminded that the attached preliminary pricing supplement has been delivered to you on the basis that you 
+are  a  person  into  whose  possession  the  attached  preliminary  pricing  supplement  may  be  lawfully  delivered  in 
+accordance with the laws of the jurisdiction in which you are located and you may not, nor are you authorised to 
+forward, deliver or otherwise provide access of the attached preliminary pricing supplement to any other person. 
+
+The materials relating to the offering of securities to which the attached preliminary pricing supplement relates do 
+not  constitute,  and  may  not  be  used  in  connection  with,  an  offer  or  solicitation  in  any  place  where  offers  or 
+solicitations are not permitted by law. If a jurisdiction requires that the offering be made by a licenced broker or 
+dealer and the underwriters or any affiliate of the underwriters is a licenced broker or dealer in that jurisdiction, the 
+offering shall be deemed to be made by the underwriters or such affiliate on behalf of the Issuers (as defined below) 
+in such jurisdiction.  
+
+A37407069 
+
+1 
+
+ 
+The  attached  preliminary  pricing  supplement  has  been  sent  to  you  in  electronic  form.  You  are  reminded  that 
+documents transmitted via this medium may be altered or changed during the process of electronic transmission and 
+consequently none of the Issuer, the Guarantor, the Joint Lead Managers, nor their respective affiliates and their 
+respective  directors,  officers,  employees,  representatives,  agents  and  each  person  who  controls  the  Issuer,  the 
+Guarantor, each Joint Lead Manager or their respective affiliates accepts any liability or responsibility whatsoever in 
+respect of any alteration or change to the attached preliminary pricing supplement distributed to you in electronic 
+format or any discrepancies between the attached preliminary pricing supplement distributed to you in electronic 
+format and the hard copy version available to you on request from the Joint Lead Managers.  
+
+Restrictions: Nothing in this electronic transmission constitutes an offer or an invitation by or on behalf of any of 
+the Issuer, the Guarantor or the Joint Lead Managers to subscribe or purchase any of the securities described therein. 
+Any securities to be issued will not be registered under the Securities Act and may not be offered or sold in the United 
+States unless registered under the Securities Act or pursuant to an exemption from such registration. Access has been 
+limited so that it shall not constitute a general solicitation in the United States or elsewhere. If you have gained access 
+to  this  transmission  contrary  to  the  foregoing  restrictions,  you  will  be  unable  to  purchase  any  of  the  securities 
+described therein. 
+
+If  you  receive  the  attached  preliminary  pricing  supplement  by  e-mail,  you  should  not  reply  by  e-mail  to  the 
+preliminary  pricing  supplement,  and  you  may  not  purchase  any  securities  by  doing  so.  Any  reply  e-mail 
+communications, including those you generate by using the Reply function on your e-mail software, will be ignored 
+or rejected. You are responsible for protecting against viruses and other destructive items. Your use of this e-mail is 
+at your own risk and it is your responsibility to take precautions to ensure that it is free from viruses and other items 
+of a destructive nature.  
+
+ 
+
+A37407069 
+
+2 
+
+ 
+
+ 
+
+Preliminary Pricing Supplement dated [] 2019 
+
+The  information  contained  in  this  Preliminary  Pricing  Supplement  is  subject  to  completion  and 
+amendment in the final Pricing Supplement. No offer or invitation shall be made or received, and no 
+agreement shall be made, on the basis of this document, to purchase or subscribe for any securities. 
+
+Competition Team Technologies Limited  
+
+Issue of U.S.$[] [] per cent. Guaranteed Notes due [] 
+
+Unconditionally and Irrevocably Guaranteed by 
+
+Hon Hai Precision Industry Co., Ltd. 
+
+under the U.S.$5,000,000,000 Medium Term Note Programme 
+
+The document constitutes the Pricing Supplement relating to the issue of Notes described herein.  
+
+Terms used herein shall be deemed to be defined as such for the purposes of the Terms and Conditions (the 
+Conditions) set forth in the Offering Circular dated 7 August 2018 (the Offering Circular). This Pricing 
+Supplement contains the final terms of the Notes and must be read in conjunction with such Offering Circular 
+as so supplemented.  
+
+PRIIPs REGULATION  PROHIBITION OF SALES TO EEA RETAIL INVESTORS  The Notes are 
+not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise 
+made available to any retail investor in the European Economic Area (EEA). For these purposes, a retail 
+investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of 
+Directive 2014/65/EU (as amended, MiFID II); (ii) a customer within the meaning of Directive 2002/92/EC 
+(as amended or superseded, the IMD), where that customer would not qualify as a professional client as 
+defined  in  point  (10)  of  Article  4(1)  of  MiFID  II;  or  (iii)  not  a  qualified  investor  as  defined  in  Directive 
+2003/71/EC  (as  amended  or  superseded,  the  Prospectus  Directive).  Consequently  no  key  information 
+document required by Regulation (EU) No 1286/2014 (the PRIIPs Regulation) for offering or selling the 
+Notes  or  otherwise  making  them  available  to  retail  investors  in  the  EEA  has  been  prepared  and  therefore 
+offering or selling the Notes or otherwise making them available to any retail investor in the EEA may be 
+unlawful under the PRIIPS Regulation. 
+
+In connection with Section 309B of the Securities and Futures Act (Chapter 289) of Singapore, as modified or 
+amended from time to time including by an subsidiary legislation as may be applicable at the relevant time 
+(together, the SFA) and the Securities and Futures (Capital Markets Products) Regulations 2018 of Singapore 
+(the CMP Regulations 2018), the Issuer has determined, and hereby notifies all relevant persons (as defined 
+in Section 309A(1) of the SFA), that the Notes are prescribed capital markets products (as defined in the CMP 
+Regulations 2018) and are Excluded Investment Products (as defined in MAS Notice SFA 04-N12: Notice on 
+the  Sale  of  Investment  Products  and  MAS  Notice  FAA-N16:  Notice  on  Recommendations  on  Investment 
+Products). 
+
+1 
+ 
+2 
+ 
+3 
+4 
+
+(i) 
+
+(ii) 
+(i) 
+
+Issuer: 
+
+Guarantor: 
+Series Number: 
+
+Competition Team Technologies Limited  
+
+Hon Hai Precision Industry Co., Ltd. 
+15 
+
+Tranche Number: 
+
+(ii) 
+Specified Currency or Currencies: 
+
+1  
+United States dollars (U.S.$) 
+
+Aggregate Nominal Amount: 
+
+ 
+
+A37407069 
+
+3 
+
+ 
+
+ 
+ 
+5 
+ 
+6 
+
+7 
+ 
+8 
+9 
+10 
+11 
+
+12 
+13 
+
+14 
+
+15 
+
+(i) 
+(ii) 
+(i) 
+
+(ii) 
+(i) 
+
+(ii) 
+(i) 
+
+Series:  
+Tranche:  
+  Issue Price: 
+
+  Net Proceeds: 
+Specified Denominations: 
+
+Calculation Amount: 
+Issue Date: 
+
+U.S.$[] 
+U.S.$[] 
+[] per cent. of the Aggregate Nominal Amount   
+
+U.S.$[] 
+U.S.$200,000 and integral multiples of U.S.$1,000 
+in excess thereof 
+U.S.$1,000 
+[ 2019] 
+
+Interest Commencement Date: 
+
+(ii) 
+Maturity Date: 
+
+Issue Date  
+[] 
+
+Interest Basis: 
+
+Redemption/Payment Basis: 
+
+Change of Interest or Redemption/Payment 
+Basis: 
+Put/Call Options: 
+
+Listing: 
+
+Date of Board approval for the issuance of 
+Notes obtained: 
+Date of Board approval for the giving of 
+Guarantee obtained: 
+
+[] per cent. Fixed Rate 
+
+Redemption at par 
+
+Not Applicable  
+
+Not Applicable 
+
+Singapore Exchange Securities Trading Limited (the 
+SGX-ST) 
+13 July 2012  
+
+11 May 2017 
+
+PROVISIONS RELATING TO INTEREST (IF ANY) PAYABLE 
+16 
+
+Fixed Rate Note Provisions: 
+
+Applicable 
+
+(i) 
+
+Rate of Interest: 
+
+Interest Payment Date(s): 
+Fixed Coupon Amount(s): 
+Broken Amount(s): 
+Day Count Fraction: 
+Determination Dates: 
+
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii)  Other terms relating to the method 
+
+of calculating interest for Fixed 
+Rate Notes: 
+
+[] per cent. per annum payable semi-annually in 
+arrear 
+[] and [] in each year   
+U.S.$[] per Calculation Amount 
+Not Applicable  
+30/360  
+Not Applicable  
+Not Applicable 
+
+17 
+18 
+
+Floating Rate Note Provisions: 
+
+Zero Coupon Note Provisions: 
+
+Not Applicable  
+
+Not Applicable  
+
+A37407069 
+
+4 
+
+ 
+
+19 
+
+Not Applicable  
+
+Not Applicable  
+
+Not Applicable 
+
+Not Applicable 
+
+Index-Linked Interest Note/other variable-
+linked interest Note Provisions: 
+Dual Currency Note Provisions: 
+
+Put Option: 
+
+Call Option: 
+
+20 
+PROVISIONS RELATING TO REDEMPTION 
+21 
+22 
+23 
+24 
+GENERAL PROVISIONS APPLICABLE TO THE NOTES 
+25 
+
+Final Redemption Amount of each Note: 
+
+Early Redemption Amount: 
+
+Form of Notes: 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+Financial Centre(s) or other special 
+provisions relating to payment dates: 
+Talons for future Coupons or Receipts to be 
+attached to Definitive Notes (and dates on 
+which such Talons mature): 
+Details relating to Partly Paid Notes: amount 
+of each payment comprising the Issue Price 
+and date on which each payment is to be 
+made and consequences (if any) of failure to 
+pay, including any right of the Issuer to 
+forfeit the Notes and interest due on late 
+payment: 
+Details relating to Instalment Notes: amount 
+of each instalment, date on which each 
+payment is to be made: 
+Redenomination, renominalisation and 
+reconventioning provisions: 
+Consolidation provisions: 
+
+Other terms or special conditions: 
+
+Other provisions: 
+
+32 
+33 
+DISTRIBUTION 
+34 
+
+(i) 
+
+If syndicated, names of Managers: 
+
+A37407069 
+
+5 
+
+U.S.$1,000 per Calculation Amount  
+
+U.S.$1,000 per Calculation Amount 
+
+Registered Notes: 
+Global Certificate exchangeable for Individual Note 
+Certificates in the limited circumstances described 
+in the Global Certificate  
+Not Applicable 
+
+No 
+
+Not Applicable  
+
+Not Applicable  
+
+Not Applicable  
+
+The provisions in Condition 15 (Further Issues) 
+apply 
+Not Applicable 
+
+Not Applicable 
+
+Bank of China (Hong Kong) Limited, Citigroup 
+Global Markets Limited, Merrill Lynch (Asia 
+Pacific) Limited, The Hongkong and Shanghai 
+Banking Corporation Limited  
+
+ 
+
+(ii) 
+
+Stabilisation Coordinator(s) (if any):  The Hongkong and Shanghai Banking Corporation 
+
+35 
+
+36 
+37 
+
+If non-syndicated, name and address of 
+Dealer: 
+U.S. Selling Restrictions: 
+
+Additional selling restrictions: 
+
+A37407069 
+
+6 
+
+Limited 
+Not Applicable 
+
+Reg. S Category 1; TEFRA Not Applicable   
+
+The Singapore selling restrictions on page 116 and 
+117  of  the  Offering  Circular  shall  be  deleted  in  its 
+entirety and replaced with the following:  
+Singapore 
+Each  Dealer  has  acknowledged,  and  each  further 
+Dealer  appointed  under  the  Programme  will  be 
+required to acknowledge, that this Offering Circular 
+has not been and will not be registered as a prospectus 
+with 
+the  Monetary  Authority  of  Singapore. 
+Accordingly, each Dealer has represented, warranted 
+and agreed, and each further Dealer appointed under 
+the Programme will be required to represent, warrant 
+and agree, that it has not offered or sold any Notes or 
+caused  such  Notes  to  be  made  the  subject  of  an 
+invitation  for subscription or purchase and  will not 
+offer  or  sell  such  Notes  or  cause  such  Notes  to  be 
+made the subject of an invitation for subscription or 
+purchase,  and  has  not  circulated  or  distributed,  nor 
+will it circulate or distribute, this Offering Circular or 
+any  other  document  or  material  in  connection  with 
+the  offer  or  sale,  or  invitation  for  subscription  or 
+purchase,  of  such  Notes,  whether  directly  or 
+indirectly, to any person in Singapore other than (i) 
+to an institutional investor (as defined in Section 4A 
+of  the  Securities  and  Futures  Act  (Chapter  289)  of 
+Singapore, as modified or amended from time to time 
+(together, the SFA)) pursuant to Section 274 of the 
+SFA, (ii) to a relevant person (as defined in Section 
+275(2) of the SFA) pursuant to Section 275(1) of the 
+SFA, or any person pursuant to Section 275(1A) of 
+the  SFA,  and  in  accordance  with  the  conditions 
+specified in Section 275 of the SFA, or (iii) otherwise 
+pursuant to, and in accordance with the conditions of, 
+any other applicable provision of the SFA. 
+Where the Notes are subscribed or purchased under 
+Section 275 of the SFA by a relevant person which 
+is: 
+(a) 
+
+a  corporation  (which  is  not  an  accredited 
+investor  (as  defined  in  Section  4A  of  the 
+SFA)) the sole business of which is to hold 
+investments  and  the  entire  share  capital  of 
+
+ 
+
+(b) 
+
+which is owned by one or more an accredited 
+investor; or  
+a trust (where the trustee is not an accredited 
+investor)  whose  sole  purpose  is  to  hold 
+investments and each beneficiary of the trust 
+is  an  individual  who  is  an  accredited 
+investor, 
+
+securities  or  securities-based  derivatives  contracts 
+(each term as defined in Section 2(1) of the SFA) of 
+that  corporation  or  the  beneficiaries  rights  and 
+interest (howsoever described) in that trust shall not 
+be 
+that 
+corporation  or  that  trust  has  acquired  the  Notes 
+pursuant to an offer made under Section 275 of the 
+SFA except: 
+(1) 
+
+transferred  within  six  months  after 
+
+to  an  institutional  investor  or  to  a  relevant 
+person defined in Section 275(2) of the SFA, 
+or  to  any  person  arising  from  an  offer 
+referred  to  in  Section  275(1A)  or  Section 
+276(4)(i)(B) of the SFA;  
+where no consideration is or will be given for 
+the transfer; 
+where the transfer is by operation of law;  
+as specified in Section 276(7) of the SFA;  
+specified in Regulation 37A of the Securities 
+and  Futures 
+Investments) 
+(Securities and Securities-based Derivatives 
+Contracts) Regulations 2018. 
+
+(Offers  of 
+
+(2) 
+
+(3) 
+(4) 
+(5) 
+
+Singapore SFA Product Classification: In connection 
+with Section 309B of the SFA and the Securities and 
+Futures  (Capital  Markets  Products)  Regulations 
+2018 of Singapore (the CMP Regulations 2018), 
+unless otherwise specified before an offer of Notes, 
+the  Issuer  has  determined,  and  hereby  notifies  all 
+relevant persons (as defined in Section 309A(1) of the 
+SFA), that the Notes are prescribed capital markets 
+products (as defined in the CMP Regulations 2018) 
+and  Excluded  Investment  Products  (as  defined  in 
+MAS  Notice  SFA  04-N12:  Notice  on  the  Sale  of 
+Investment  Products  and  MAS  Notice  FAA-N16: 
+Notice  on  Recommendations  on 
+Investment 
+Products). 
+
+XS[] 
+
+[] 
+
+OPERATIONAL INFORMATION 
+38 
+39 
+
+Common Code: 
+
+ISIN Code: 
+
+A37407069 
+
+7 
+
+ 
+
+40 
+41 
+42 
+
+CMU Instrument Number: 
+
+Legal Entity Identifier:  
+
+Not Applicable  
+The LEI of the Issuer is 254900B6P01H4XAT6880 
+
+43 
+44 
+GENERAL 
+45 
+
+Any clearing system(s) other than Euroclear, 
+Clearstream, Luxembourg and the CMU and 
+the relevant identification number(s): 
+Delivery: 
+
+Additional Paying Agent(s) (if any): 
+
+The aggregate principal amount of Notes 
+issued has been translated into U.S. dollars 
+at the rate of -, producing a sum of (for 
+Notes not denominated in U.S. dollars): 
+Ratings: 
+
+Not Applicable  
+
+Delivery against payment 
+
+Not Applicable  
+
+Not Applicable  
+
+The Notes to be issued have been rated:  
+
+ 
+
+S&P: A- 
+
+46 
+
+ 
+
+STABILISATION 
+In connection with this issue, The Hongkong and Shanghai Banking Corporation Limited (the Stabilisation 
+Coordinator) (or persons acting on behalf of any Stabilisation Coordinator) may over-allot Notes or effect 
+transactions with a view to supporting the market price of the Notes at a level higher than that which might 
+otherwise prevail. However, stabilisation may not necessarily occur. Any stabilisation action may begin on or 
+after the date on which adequate public disclosure of the terms of the offer of the Notes is made and, if begun, 
+may cease at any time, but it must end no later than the earlier of 30 days after the issue date of the Notes and 
+60 days after the date of allotment of the Notes. 
+
+2018 THIRD QUARTER FINANCIALS   
+On  13  November  2018  and 15 January  2019,  the  Guarantor  published  its  unaudited  consolidated  financial 
+statements as at and for the three months and nine months ended 30 September 2018 (the 2018 Third Quarter 
+Financials) and the English translations thereof on the websites of the TWSE, which are incorporated by 
+reference in the Offering Circular. In the event of any discrepancy between the English translation and the 
+original Chinese version of the 2018 Third Quarter Financials or any differences in interpretation between the 
+two versions, the Chinese version of the 2018 Third Quarter Financials will prevail.  
+
+The 2018 Third Quarter Financials have been reviewed but have not been audited by PricewaterhouseCoopers, 
+Taiwan,  which  issued  a  qualified  report  because  certain  consolidated  subsidiaries  and  equity-method 
+investments are not reviewed. The 2018 Third Quarter Financials are not necessarily indicative of the results 
+that may be expected for the year ended 31 December 2018 or any period thereafter. Consequently, potential 
+investors must exercise caution when using such data to evaluate the Groups financial condition and results of 
+operations. 
+
+RECENT DEVELOPMENTS    
+
+Investment in Sinovation Fund IV L.P. 
+On 4 October 2018, the Company announced that it had made an indirect investment of U.S.$50,000,000 in 
+Sinovation  Fund  IV,  L.P.  for  long-term  investment  purposes,  through  its  wholly-owned  subsidiary  Icreate 
+Investments Limited.  
+
+A37407069 
+
+8 
+
+ 
+
+Investment in WRV II-A Fund  
+
+On 4 October 2018, the Company announced that it had made an indirect investment of U.S.$26,180,195 in 
+WRV II-A fund for long-term investment purposes, through its wholly-owned subsidiary Icreate Investments 
+Limited. 
+Acquisition of shares in Rising Stars Mobile India Private Limited 
+On 12 October 2018, the Company announced that it had made an indirect investment of INR 3,699,978,900 
+(approximately U.S.$49,999,715) for 36,999,789 shares in Rising Stars Mobile India Private Limited at INR100 
+per share through its subsidiary Wonderful Stars Pte. Ltd. for long-term investment purposes.  
+Investment in IDG Breyer Capital Fund L.P. 
+On 30 November 2018, the  Company announced that it  had  made an indirect investment of no  more than 
+U.S.$1,000,000,000 in IDG Breyer Capital Fund L.P. through its subsidiary TMJ Technology Co., Ltd. for long-
+term investment purposes.  
+Investment in IDG Breyer Capital Fund GP Associates L.P. 
+On 30 November 2018, the  Company announced that it  had  made an indirect investment of no  more than 
+U.S.$24,000,000 in IDG Breyer Capital Fund GP Associates L.P. through its subsidiary Rich Dreams Network 
+Technology Limited for long-term investment purposes.  
+Acquisition of shares in Cloud Network Technology Singapore Pte. Ltd. 
+
+On 20 December 2018, the Company announced that it had made an indirect investment of U.S.$52,000,000 
+by obtaining the common shares of Cloud Network Technology Singapore Pte. Ltd. through its wholly-owned 
+subsidiary Focus PC Enterprises Limited for long-term investment purposes.  
+
+Acquisition of shares in Foxconn Hon Hai Technology India Mega Development Private Limited 
+
+On  26  January  2019,  the  Company  announced  that  it  had  made  an  indirect  investment  of  no  more  than 
+U.S.$213,500,000  for  no  more  than  1,496,649,330  shares  in  Foxconn  Hon  Hai  Technology  India  Mega 
+Development Private Limited at about INR10 each through its subsidiary Foxconn Singapore Pte. Ltd. for long-
+term investment purposes. 
+
+Profit Warning of FIH Mobile Limited 
+
+On 22 February 2019, FIH Mobile Limited, one of the principal subsidiaries of the Group, announced on the 
+website of The Stock Exchange of Hong Kong Limited that FIH Mobile Limited and its subsidiaries (the FIH 
+Group) expects the FIH Group to record a consolidated net loss for the financial year ended 31 December 
+2018 of around, or below, U.S.$870 million (compared with the consolidated net loss of U.S.$525.394 million 
+for the financial year ended 31 December 2017). The factors contributing to such increase in consolidated net 
+loss has been disclosed in the profit warning announcement.  
+
+Investors should be cautious that the information contained in the profit warning announcement is solely based 
+on the preliminary assessment of the unaudited management accounts of the FIH Group for the year ended 31 
+December 2018. The profit warning announcement will also not demonstrate the full picture of the financial 
+performance of the FIH Group for the year ended 31 December 2018. Therefore, potential investors should not 
+use such preliminary assessment to evaluate FIH Groups financial condition and results of operations for the 
+year ended 31 December 2018. 
+
+PURPOSE OF PRICING SUPPLEMENT 
+This Pricing Supplement comprises the final terms required for issue and admission to trading on the SGX-ST 
+of the Notes described herein pursuant to the U.S.$5,000,000,000 Medium Term Note Programme. 
+
+A37407069 
+
+9 
+
+ 
+
+RESPONSIBILITY 
+The Issuer and the Guarantor accept responsibility for the information contained in this Pricing Supplement. 
+
+ 
+
+Signed on behalf of Competition Team Technologies Limited: 
+
+ 
+
+ 
+
+ 
+
+By:  _________________________________________ 
+ 
+
+Duly authorised 
+
+Signature Page  Pricing Supplement  
+
+ 
+
+ 
+
+Signed on behalf of Hon Hai Precision Industry Co., Ltd.: 
+
+ 
+
+ 
+
+ 
+
+By:  _________________________________________ 
+ 
+
+Duly authorised 
+
+ 
+
+Signature Page  Pricing Supplement  
+
+
